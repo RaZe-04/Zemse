@@ -19,6 +19,7 @@
                             <li><a href="#progg">My Progress</a></li>
                             <li><a href="#hobby">My Hobbies</a></li>
                             <li><a href="#pp">My Plus Points</a></li>
+                            <li><a href="#cd">Contact Details</a></li>
                         </ul>
                     <li><a href="#abtOm">About Omkar</a></li>
                 </ol>
@@ -53,8 +54,9 @@
           <li>Confidence</li>
         </ol>
     </section>
+    <hr>
     <footer>
-        <h3>Contact Details</h3>
+        <h3 id="cd">Contact Details</h3>
         <details>
             <summary>My contact details.</summary>
             <ol>
